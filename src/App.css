@@ -1,11 +1,22 @@
+body{
+  background-color: rosybrown;
+}
+
+
 .App {
   text-align: center;
+  padding-left: 500px;
+  padding-top: 150px;
+  color: chocolate;
 }
+
+
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
